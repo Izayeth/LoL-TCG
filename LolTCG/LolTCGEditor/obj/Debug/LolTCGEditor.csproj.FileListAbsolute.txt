@@ -1,0 +1,17 @@
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\bin\Debug\LolTCGEditor.exe.config
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\bin\Debug\LolTCGEditor.exe
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\bin\Debug\LolTCGEditor.pdb
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.CardsEditor.resources
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.CardsList.resources
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.MainForm.resources
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.Properties.Resources.resources
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.exe
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.pdb
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.CardEditor.resources
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\bin\Debug\LolTCGCommon.dll
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\bin\Debug\LolTCGCommon.pdb
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.csproj.CopyComplete
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGEditor\obj\Debug\LolTCGEditor.TypeSelector.resources

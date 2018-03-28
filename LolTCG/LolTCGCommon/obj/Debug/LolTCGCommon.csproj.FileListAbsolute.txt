@@ -1,0 +1,6 @@
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGCommon\bin\Debug\LolTCGCommon.dll
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGCommon\bin\Debug\LolTCGCommon.pdb
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGCommon\obj\Debug\LolTCGCommon.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGCommon\obj\Debug\LolTCGCommon.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGCommon\obj\Debug\LolTCGCommon.dll
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCGCommon\obj\Debug\LolTCGCommon.pdb

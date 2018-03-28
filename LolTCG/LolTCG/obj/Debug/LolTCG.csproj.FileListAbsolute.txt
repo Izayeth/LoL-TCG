@@ -1,0 +1,9 @@
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\bin\Debug\LolTCG.exe.config
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\bin\Debug\LolTCG.exe
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\bin\Debug\LolTCG.pdb
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\obj\Debug\LolTCG.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\obj\Debug\LolTCG.Properties.Resources.resources
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\obj\Debug\LolTCG.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\obj\Debug\LolTCG.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\obj\Debug\LolTCG.exe
+C:\Users\micha\Desktop\Krzysiek\Loltcg\LolTCG\LolTCG\obj\Debug\LolTCG.pdb

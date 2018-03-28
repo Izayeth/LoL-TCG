@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LolTCG", "LolTCG\LolTCG.csproj", "{C6C74413-9F62-43ED-8190-61881F0B5F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LolTCGEditor", "LolTCGEditor\LolTCGEditor.csproj", "{FB64FBA4-EBC9-43CD-A728-2D4C74F129F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LolTCGCommon", "LolTCGCommon\LolTCGCommon.csproj", "{56444AE4-46AF-46BB-9873-F64A74B99B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C74413-9F62-43ED-8190-61881F0B5F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C74413-9F62-43ED-8190-61881F0B5F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C74413-9F62-43ED-8190-61881F0B5F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C74413-9F62-43ED-8190-61881F0B5F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB64FBA4-EBC9-43CD-A728-2D4C74F129F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB64FBA4-EBC9-43CD-A728-2D4C74F129F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB64FBA4-EBC9-43CD-A728-2D4C74F129F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB64FBA4-EBC9-43CD-A728-2D4C74F129F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56444AE4-46AF-46BB-9873-F64A74B99B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56444AE4-46AF-46BB-9873-F64A74B99B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56444AE4-46AF-46BB-9873-F64A74B99B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56444AE4-46AF-46BB-9873-F64A74B99B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2E16E0-BDF4-4F7D-BADB-C6A040F99CED}
+	EndGlobalSection
+EndGlobal
